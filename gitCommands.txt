@@ -16,3 +16,8 @@ commit a file
 
 pushing code to remote repo
 -- git push origin master
+
+branching in git 
+-- git branch --> show the list of branches
+-- git branch [branch name] --> create a new branch
+-- git checkout [branch name] --> to move to that branch
