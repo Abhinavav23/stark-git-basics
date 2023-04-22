@@ -1,0 +1,15 @@
+initialize a git repository
+-- git init
+
+connect your local with remote repo
+-- git remote add origin "origin path"
+
+move files to staging area
+-- git add "file path"
+-- git add . --> will add all the files to staging area
+
+commiting a file
+-- git commit -m "message"
+
+pushing code to remote repo
+-- git push origin master
