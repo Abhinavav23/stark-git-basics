@@ -8,7 +8,10 @@ move files to staging area
 -- git add "file path"
 -- git add . --> will add all the files to staging area
 
-commiting a file
+checking the status of the files
+-- git status
+
+commit a file
 -- git commit -m "message"
 
 pushing code to remote repo
