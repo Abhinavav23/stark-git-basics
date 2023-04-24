@@ -21,3 +21,7 @@ branching in git
 -- git branch --> show the list of branches
 -- git branch [branch name] --> create a new branch
 -- git checkout [branch name] --> to move to that branch
+
+merging branches
+-- git merge [branch name]
+-- raising pull request to merge things in master
